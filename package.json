@@ -1,0 +1,37 @@
+{
+  "name": "react-simple-d3force",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "license": "CC0-1.0",
+  "author": "daehee.kim <clonekim@gmail.com>",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "d3",
+    "react",
+    "forceLayout"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clonekim/react-simple-d3force.git"
+  },
+
+  "peerDependencies": {
+    "d3": "^7.4.4",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.0",
+    "@babel/preset-env": "^7.18.0",
+    "@babel/preset-react": "^7.17.12",
+    "@rollup/plugin-babel": "^5.3.1",
+    "d3": "^7.4.4",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "rollup-plugin-import-css": "^3.0.3",
+    "rollup-plugin-uglify": "^6.0.4"
+  }
+}
