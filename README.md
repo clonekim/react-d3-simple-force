@@ -4,6 +4,8 @@ __React component for d3, implements ForceLayout__
 
 ## Install
 
+[npm](https://www.npmjs.com/package/react-simple-d3force)
+
 > npm i react-simple-d3force
 
 ## Usage
